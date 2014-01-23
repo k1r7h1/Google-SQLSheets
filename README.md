@@ -8,7 +8,7 @@ Link to Google spreadsheet implmentation: https://docs.google.com/spreadsheet/cc
 
 Code available in SQLSheets.gs file.
 
-/*
+
 Author: Kirthi Banothu
 Project Details: Allows users to interact with an SQL database using SQL queries while leveraging google spreadsheet capabilities
 
@@ -30,7 +30,6 @@ Project Details: Allows users to interact with an SQL database using SQL queries
   
   dropTable | dropTable("Persons")
   
-*/
 
 
 
