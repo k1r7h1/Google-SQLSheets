@@ -29,6 +29,7 @@ Project Details: Allows users to interact with an SQL database using SQL queries
   dropTable | dropTable("Persons")
   
 
+![Alt text](http://s17.postimg.org/p0y30rcfj/Screen_Shot_2015_01_07_at_10_44_49_PM.png "Optional title")
 
 
 
